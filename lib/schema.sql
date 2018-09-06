@@ -6,5 +6,5 @@ CREATE TABLE series(
 );
 
 CREATE TABLE subgenres(
-  
+
 );
