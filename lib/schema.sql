@@ -23,5 +23,6 @@ CREATE TABLE books (
 );
 
 CREATE TABLE characters (
-  name TEXT
+  name TEXT,
+  species TEXT
 );
