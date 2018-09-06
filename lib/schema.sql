@@ -24,4 +24,4 @@ CREATE TABLE books (
 
 CREATE TABLE characters (
   name TEXT
-)
+);
