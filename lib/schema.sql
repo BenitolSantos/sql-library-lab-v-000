@@ -5,6 +5,6 @@ CREATE TABLE series(
   id INTEGER PRIMARY KEY
 );
 
-CREATE TABLE subgenres (
+CREATE TABLE subgenres(
   
 );
