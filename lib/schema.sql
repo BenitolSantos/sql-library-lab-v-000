@@ -25,5 +25,5 @@ CREATE TABLE books (
 CREATE TABLE characters (
   name TEXT,
   species TEXT,
-  motto TEXT
+  motto TEXT,
 );
