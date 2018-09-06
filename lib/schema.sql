@@ -16,5 +16,6 @@ CREATE TABLE authors (
 );
 
 CREATE TABLE books (
-  title TEXT
+  title TEXT,
+  year INTEGER,
 );
