@@ -27,7 +27,7 @@ CREATE TABLE characters (
   species TEXT,
   motto TEXT,
   series_id INTEGER,
-  author_id TEXT,
+  author_id INTEGER,
   id INTEGER PRIMARY KEY
 );
 
