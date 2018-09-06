@@ -30,3 +30,7 @@ CREATE TABLE characters (
   author_id TEXT,
   id INTEGER PRIMARY KEY
 );
+
+CREATE TABLE character_books (
+
+);
